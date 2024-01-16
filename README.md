@@ -5,7 +5,7 @@
 
 ## Description
 
-The motivation for this project was generating a random password with JavaScript, with game criteria provided to me by the bootcamp instructors. 
+The motivation for this project was generating a quiz game with JavaScript with game criteria provided by the bootcamp instructors.
 
 ## Installation
 
